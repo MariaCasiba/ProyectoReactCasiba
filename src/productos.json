@@ -1,7 +1,7 @@
 [
     {
         "id": 1,
-        "picture": "images/almodovar.jpg",
+        "picture": "/images/almodovar.jpg",
         "titulo": "El último sueño",
         "autor": "Pedro Almodóvar",
         "descripcion": "Este libro es lo más parecido a una autobiografía fragmentada, incompleta y un poco críptica. Con todo, creo que el lector acabará obteniendo la máxima información de mí como cineasta, como fabulador (como escritor), y del modo en que mi vida hace que una cosa y las otras se mezclen». Así define el presente volumen Pedro Almodóvar en su introducción, poniendo además en perspectiva cada uno de los doce relatos que lo forman.",
@@ -11,7 +11,7 @@
     },
     {
         "id": 2,
-        "picture": "images/senoritas.jpg",
+        "picture": "/images/senoritas.jpg",
         "titulo": "Las señoritas",
         "autor": "Laura Ramos",
         "descripcion": "La historia más bella y mejor documentada de las sesenta y una jóvenes maestras que Sarmiento trajo de los Estados Unidos a la Argentina en el siglo XIX. Sus amores, tragedias y relaciones prohibidas, y sus batallas pedagógicas y aventuras en las luchas políticas que asolaban la república, en un relato cautivante de la mano de Laura Ramos.",
@@ -21,7 +21,7 @@
     },
     {
         "id": 3,
-        "picture": "images/fitness.jpg",
+        "picture": "/images/fitness.jpg",
         "titulo": "Fitness espiritual",
         "autor": "Agustina D'andraia",
         "descripcion": "Ir tras las pistas de nuestra historia es para valientes, dice Agustina D'Andraia en este libro íntimo donde comparte su propio viaje interior para que otras personas también se animen a transitar el maravilloso camino del autoconocimiento. Fitness espiritual invita al cambio, a tomar decisiones, a no quedarse en relaciones tóxicas y a armonizar el cuerpo y el ser. La autora reconstruye su propia búsqueda espiritual, las terapias, las técnicas y las filosofías que le permitieron superar momentos duros y ofrece consejos e ideas para mejorar la sexualidad, encontrar el buen amor, sanar las heridas y liberarnos de las jaulas mentales.",
@@ -31,7 +31,7 @@
     },
     {
         "id": 4,
-        "picture": "images/curame.jpg",
+        "picture": "/images/curame.jpg",
         "titulo": "Curame",
         "autor": "Lorena Pronsky",
         "descripcion": "En Curame Lorena Pronsky nos invita a reflexionar acerca de cómo podemos transitar el camino que tenemos por delante sin desconocer jamás los dolores han dejado marcas en el alma, cada una de las heridas que nos atraviesan, y que nos señalan un nuevo destino.",
@@ -41,7 +41,7 @@
     },
     {
         "id": 5,
-        "picture": "images/criada.jpg",
+        "picture": "/images/criada.jpg",
         "titulo": "El cuento de la criada",
         "autor": "Margaret Atwood",
         "precio": 5000,
@@ -50,7 +50,7 @@
     },
     {
         "id": 6,
-        "picture": "images/rescate.jpg",
+        "picture": "/images/rescate.jpg",
         "titulo": "Distancia de rescate",
         "autor": "Samanta Schweblin",
         "descripcion": "Distancia de rescate sigue esta vertiginosa fatalidad en la que, sin saberlo, damos el paso en falso que finalmente nos condena. Esta novela, premiada en todo el mundo, se ha convertido en un relato urgente y perdurable. La destreza literaria de Samanta Schweblin logra atravesarnos de forma implacable, mantenernos inevitablemente atrapados y sumergirnos en un universo ficcional estremecedor.",
@@ -60,7 +60,7 @@
     },
     {
         "id": 7,
-        "picture": "images/susurro.jpg",
+        "picture": "/images/susurro.jpg",
         "titulo": "El susurro de las mujeres",
         "autor": "Gabriela Exilart",
         "descripcion": "Esta novela narra el camino recorrido por las mujeres para conseguir el reconocimiento de sus derechos civiles y políticos y reconstruye, con mirada exquisita y atenta, un período clave de la historia argentina que nos permite entender mejor el presente y la razón por la cual nuestra tierra fue y es tierra fértil de talentos e impulsos de cambio.",
@@ -70,7 +70,7 @@
     },
     {
         "id": 8,
-        "picture": "images/solar.jpg",
+        "picture": "/images/solar.jpg",
         "titulo": "Una gira por el sistema solar",
         "autor": "Patricio Zain",
         "descripcion": "En clave pop, metalera y queer, Patricio Zain, doctor en Astronomía, comparte en este libro las últimas novedades e información sobre planetas, asteroides, misiones espaciales y otros mundos, y explica por qué es importante que sepamos qué hay más allá de la Luna.",
@@ -80,7 +80,7 @@
     },
     {
         "id": 9,
-        "picture": "images/fervor.jpg",
+        "picture": "/images/fervor.jpg",
         "titulo": "Fervor de Buenos Aires",
         "autor": "Jorge Luis Borges",
         "descripcion": "Fervor de Buenos Aires (1923) es el primer libro que publica Borges. Casi medio siglo después dirá de él que “prefigura todo lo que haría después”. Este volumen suma a Fervor los dos libros que siguieron en su producción poética: Luna de enfrente (1925) y Cuaderno San Martín (1929), y se propone como homenaje a su escritura y celebración de su genio.",
@@ -90,7 +90,7 @@
     },
     {
         "id": 10,
-        "picture": "images/cage.jpg",
+        "picture": "/images/cage.jpg",
         "titulo": "Cómo me enamoré de Nicolas Cage",
         "autor": "Carla Quevedo",
         "descripcion": "Marta es una actriz argentina que vive en New York, es joven, linda y perturbada. Intenta quedar en películas de gran despliegue, pero nunca termina de encajar en los estereotipos de lo que se espera de una latina. Una noche, en una fiesta, conoce a un músico muy famoso y se enamora de él. Pero lo que podría ser el inicio de una historia de amor es en cambio el inicio de una historia rabiosa y fracturada, minada de desencuentros.",
@@ -100,7 +100,7 @@
     },
     {
         "id": 11,
-        "picture": "images/warhol.jpg",
+        "picture": "/images/warhol.jpg",
         "titulo": "Warhol. La vida como arte",
         "autor": "Blake Gopnik",
         "descripcion": "Basada en años de investigación y entrevistas con decenas de amigos, amantes y detractores de Warhol, esta biografía traza el recorrido del artista desde sus orígenes como hijo de inmigrantes de Europa del Este en Pittsburgh hasta su revolucionario papel en el mundo del arte. Además, es un fascinante retrato de la sociedad y el mundo en los años setenta y ochenta y de las grandes transformaciones ocurridas en el mercado de la cultura.",
@@ -110,7 +110,7 @@
     },
     {
         "id": 12,
-        "picture": "images/cerati.jpg",
+        "picture": "/images/cerati.jpg",
         "titulo": "Algún tiempo atrás. La vida de Gustavo Cerati",
         "autor": "Sergio Marchi",
         "descripcion": "La biografía definitiva de Gustavo Cerati, uno de los músicos argentinos de mayor trascendencia internacional, escrita por uno de los periodistas e historiadores que mejor lo conoció, y que pone en un mismo, exhaustivo tomo, hecho de infinidad de entrevistas y un enorme archivo personal, las distintas dimensiones del hombre y el artista, su recorrido vital, su fuerza creativa y su enorme legado.",
