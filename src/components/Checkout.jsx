@@ -10,7 +10,6 @@ import { Navigate } from 'react-router-dom';
     const [email1, setEmail1] = useState("");
     const [email2, setEmail2] = useState("");
     const [telefono, setTelefono] = useState("");
-    const [order, setOrder] = useState("");
     const [orderId, setOrderId] = useState("");
     const {cart, clear, sumaTotalProductos} = useContext(CartContext);
 
